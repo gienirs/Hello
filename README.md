@@ -10,11 +10,7 @@ miscellaneous
         - fifth type?
         
 ### List
-i. one
-i. two
-i. three
-  i. four
-        
+      
 1. Methods
   1. Study type
   1. Databases
