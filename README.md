@@ -15,7 +15,7 @@ miscellaneous
     1. Databases
     1. Analysis
 1. Results
- 1. Results (one tab in does nothing. This would be labeled 3. with no indent)
+ 1. Results (one tab in does nothing. This would be labeled 3. in line with 1. Methods)
 ### Results
 ## Results
 # Results
