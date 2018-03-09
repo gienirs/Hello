@@ -11,10 +11,10 @@ miscellaneous
         
 ### List
 1. Methods     
-  1. Study type
-  1. Databases
-  1. Analysis
-  
+    1. Study type
+    1. Databases
+    1. Analysis
+1. Results  
 ### Results
 ## Results
 # Results
