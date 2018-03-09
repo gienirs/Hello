@@ -10,8 +10,7 @@ miscellaneous
         - fifth type?
         
 ### List
-      
-      1.Methods *(tracker)*
+1. Methods     
   1. Study type
   1. Databases
   1. Analysis
